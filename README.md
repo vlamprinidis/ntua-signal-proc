@@ -5,4 +5,4 @@ lab1: Signal analysis using STFT (Short Time Fourier Transform) and Wavelets tra
 
 lab2: Perceptual Audio Coding.
 
-lab3: Spatial Filtering
+lab3: Spatial Filtering.
